@@ -1,0 +1,3 @@
+#测试读取配置文件
+project:
+  config: 这里是项目的配置文件dev
